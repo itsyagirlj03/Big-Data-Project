@@ -1,2 +1,2 @@
 # Big-Data-Project
-About our project I thin.
+About our project I think.
