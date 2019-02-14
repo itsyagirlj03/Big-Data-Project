@@ -1,7 +1,12 @@
 # Big-Data-Project
 About our project I think.
-1. How many people still look up anime very often in 2019?
-2. How many people look up the same stuff everyday?
-3. How many people still look up and test if their IPhone can bend?
-4. How many parinoid people still look up killer clowns?
-5. How many people still look up pokemon go to catch em all?
+1. Who recieves more google searches, Kim Kardashian or Tarly Swift?
+Kim Kardashian
+2. Who recieves more google searches, Roger Federer or Rafael Nadal?
+Roger Federer
+3. Who recieves more google searches, Greys Anatomy or Stranger Things?
+Grays Anatomy
+4. Who recieves more google searches, Youtube or Instagram?
+Youtube
+5. Who recieves more google searches, valentine'smDay or Christmass Day? 
+Christmass Day
